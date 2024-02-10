@@ -23,8 +23,8 @@
           <th scope="col">Task</th>
           <th scope="col">Date of Creation</th>
           <th scope="col" style="width: 120px">Status</th>
-          <th scope="col" class="text-center">#</th>
-          <th scope="col" class="text-center">#</th>
+          <th scope="col" class="text-center">Delete</th>
+          <th scope="col" class="text-center">Edit</th>
         </tr>
       </thead>
       <tbody>
